@@ -1,4 +1,4 @@
-# blackRose
+# blackRose Programming Language
 A scripting language intended for advanced numerical computation.
 
 About the language:
