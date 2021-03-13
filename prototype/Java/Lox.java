@@ -48,7 +48,7 @@ public class Lox{
         
         for(;;){
         // infinite loop, can be modified to do while?
-            System.out.print(">>");
+            System.out.print(">> ");
             String line = reader.readLine();
             if(line == null) break;
             run(line);
